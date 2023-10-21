@@ -80,7 +80,7 @@ Follow these steps to set up and run the project on your local machine:
     }
   ```
   
-  * Delete a employees:
+* Delete a employees:
     
   ```bash
     DELETE /api/employees/{id}
