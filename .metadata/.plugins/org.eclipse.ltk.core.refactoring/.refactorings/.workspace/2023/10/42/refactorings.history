@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;EmployesAPICRUD&apos;" deleteContents="true" description="Delete resource &apos;EmployesAPICRUD&apos;" element1="/EmployesAPICRUD" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1697784273751"/>
+</session>
