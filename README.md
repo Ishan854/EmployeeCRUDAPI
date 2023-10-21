@@ -24,7 +24,7 @@ Follow these steps to set up and run the project on your local machine:
    ```bash
    git clone https://github.com/your-username/spring-boot-crud-api.git
 
-2. Configure the MySQL database settings in src/main/resources/application.properties.
+2. Configure the MySQL database settings in src/main/employees/application.properties.
    
    Build the project:
 
