@@ -39,12 +39,12 @@ Follow these steps to set up and run the project on your local machine:
 
 ## API Endpoints
 
-  POST /api/employees - Create a new employees.
-  GET /api/employees - Retrieve all employees.
-  GET /api/employees/{id} - Retrieve an employees by ID.
-  PUT /api/employees/{id} - Update an employees by ID.
-  DELETE /api/employees/{id} - Delete an employees by ID.
-  DELETE /api/employees/ - Delete an employees by ID.
+  * POST /api/employees - Create a new employees.
+  * GET /api/employees - Retrieve all employees.
+  * GET /api/employees/{id} - Retrieve an employees by ID.
+  * PUT /api/employees/{id} - Update an employees by ID.
+  * DELETE /api/employees/{id} - Delete an employees by ID.
+  * DELETE /api/employees/ - Delete an employees by ID.
 
 ## Usage
 1. Use Postman or any API client to send HTTP requests to the provided endpoints.
