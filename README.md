@@ -32,9 +32,9 @@ Follow these steps to set up and run the project on your local machine:
    ./mvnw clean install
 3. Run the application:
 
-  ```bash
-  ./mvnw spring-boot:run
-  ```
+   ```bash
+   ./mvnw spring-boot:run
+   ```
 4. Access the API using Postman or any API client at 'http://localhost:8080/api/employees' where resource represents the entity you want to interact with.
 
 ## API Endpoints
