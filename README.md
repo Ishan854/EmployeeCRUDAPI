@@ -30,6 +30,8 @@ Follow these steps to set up and run the project on your local machine:
 
    ```bash
    ./mvnw clean install
+   ```
+   
 3. Run the application:
 
    ```bash
@@ -47,12 +49,14 @@ Follow these steps to set up and run the project on your local machine:
   * DELETE /api/employees/ - Delete an employees by ID.
 
 ## Usage
+
 1. Use Postman or any API client to send HTTP requests to the provided endpoints.
 
 2. Examples of requests:
 
 * Create a new employees:
   POST /api/employees
+  
   ```bash
     Body:
     {
@@ -62,7 +66,9 @@ Follow these steps to set up and run the project on your local machine:
       "emp_city":"Ranchi"
     }
   ```
+  
 * Update a employees:
+  
   PUT /api/employees/{id}
   ```bash
     Body:
@@ -73,7 +79,9 @@ Follow these steps to set up and run the project on your local machine:
       "emp_city":"Ranchi"
     }
   ```
+  
   * Delete a employees:
+    
   ```bash
     DELETE /api/employees/{id}
   ```
@@ -81,9 +89,11 @@ Follow these steps to set up and run the project on your local machine:
  3. Review the response to verify the success or failure of each operation.
 
 ## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
+
 * This project is based on the Spring Boot framework and uses MySQL as a database.
 
 
